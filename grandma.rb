@@ -5,6 +5,9 @@ def speak_to_grandma(statment)
   else
     puts "HUH?! SPEAK UP, SONNY!"
   end
+  if statement == "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMPKIN!"
+  end 
 end
 
 
