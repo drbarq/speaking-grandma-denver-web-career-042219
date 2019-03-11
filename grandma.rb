@@ -7,7 +7,6 @@ def speak_to_grandma(statement)
   else
     return "HUH?! SPEAK UP, SONNY!"
   end
-
 end
 
 
