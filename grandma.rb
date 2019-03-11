@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma(statment)
+def speak_to_grandma(statement)
   if statement == statement.uppercase
     puts "NO, NOT SINCE 1938!"
   else
@@ -7,7 +7,7 @@ def speak_to_grandma(statment)
   end
   if statement == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
-  end 
+  end
 end
 
 
